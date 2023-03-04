@@ -3,6 +3,6 @@ public class Sum{
     {
         int num1 = 100;
         int num2 = 24;
-        System.out.println("The sum is"+num1+num2);
+        System.out.println("The sum of two numbers is"+num1+num2);
     }
 }
